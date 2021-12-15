@@ -7,3 +7,5 @@
 3.Run the exploit . 
 
 5.Use jdk1.8.0_20 for better results .
+
+Exploit-db - https://www.exploit-db.com/exploits/50592
